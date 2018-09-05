@@ -1,4 +1,4 @@
-                                                   Webpage of Alan
+                                                   **Webpage of Alan
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -36,8 +36,6 @@ _i like math and cs class the most lol _
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
-
-
 
 ### Support or Contact
 please contact my email yuanqi.cao1@gmail.com
