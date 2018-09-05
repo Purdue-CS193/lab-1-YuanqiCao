@@ -11,21 +11,21 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Introduction
+**# Introduction**
 
-hi im alan, 18, a cs student at purdue. i like to sleep and surf lol.
+_hi im alan, 18, a cs student at purdue. i like to sleep and surf online lol._
+
+![Image] https://dsi.virginia.edu/og.jpg
 
 
-## About me
+**## About me**
 
-i am from california and i used to be a wrestler.
+_i am from california and i used to be a wrestler._
 
 ### Favorite class
 
-i like math and cs class the most lol 
+_i like math and cs class the most lol _
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
