@@ -1,7 +1,9 @@
 #Alan's first CS193Lab
-- i love computers
--i think computer science represents the future
--i think i can do almost infinite amount of things with computers
+-i love computers
+
+- i think computer science represents the future
+
+- i think i can do almost infinite amount of things with computers
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
