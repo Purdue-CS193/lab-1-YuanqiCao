@@ -15,7 +15,7 @@ Syntax highlighted code block
 
 _hi im alan, 18, a cs student at purdue. i like to sleep and surf online lol._
 
-![Image] https://dsi.virginia.edu/og.jpg
+![https://dsi.virginia.edu/og.jpg]
 
 
 **## About me**
