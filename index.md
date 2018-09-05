@@ -1,5 +1,5 @@
 #Alan's first CS193Lab
--i love computers
+- i love computers
 
 - i think computer science represents the future
 
