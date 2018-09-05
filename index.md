@@ -43,4 +43,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 ### Support or Contact
-please contact my email yuanqi.cao1@gmail.com
+please contact my email notreallymyemail@gmail.com
