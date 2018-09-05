@@ -6,6 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Introduction
 hi im alan, 18, a cs student at purdue. i like to sleep and surf online lol.
+![image](https://dsi.virginia.edu/og.jpg)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -16,7 +17,6 @@ Syntax highlighted code block
 
 
 
-![image](https://dsi.virginia.edu/og.jpg)
 
 
 **## About me**
