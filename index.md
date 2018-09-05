@@ -5,15 +5,16 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+_hi im alan, 18, a cs student at purdue. i like to sleep and surf online lol._
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-**# Introduction**
 
-_hi im alan, 18, a cs student at purdue. i like to sleep and surf online lol._
+
+
 
 ![https://dsi.virginia.edu/og.jpg]
 
