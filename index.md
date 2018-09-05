@@ -16,7 +16,7 @@ Syntax highlighted code block
 
 
 
-![https://dsi.virginia.edu/og.jpg]
+![image](https://dsi.virginia.edu/og.jpg)
 
 
 **## About me**
